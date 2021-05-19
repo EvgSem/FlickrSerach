@@ -1,10 +1,3 @@
-//
-//  Result.swift
-//  Flickr
-//
-//  Created by Ievgeniia Bondini on 5/19/21.
-//
-
 import Foundation
 
 
